@@ -18,17 +18,18 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db",
-            "database_id": "f9ff228d-61ff-4cb8-a820-62095c1a1dbc"
+            "database_name": "navihive",
+            "database_id": "6ff86490-6a65-4f58-83ae-3a73703a7714"
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "admin",
-        "AUTH_PASSWORD": "$2a$12$ZSLUS9VrKsVf6yjgGUn2/ewLY9vqztqFpL99NExv6Kv3GjvyRnNEG",
-        "AUTH_SECRET": "$2y$10$IMVl9NM.Smo7xbPVyi9HEOBhcLxOPKEp9RBIEoijS4YbKjeyFjJFm"
+        "AUTH_USERNAME": "tyu",
+        "AUTH_PASSWORD": "$2y$10$jKWPZwC1irmHRU.WNDHAbuqjBNMkoIJPj01QWSnj9wC0chqVP27m6",
+        "AUTH_SECRET": "ZSlWEOwcT8zq25DjJroi615Q1VQQ5ERF"
     }
 }
+
 
 
 
